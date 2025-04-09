@@ -37,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/proj1.sol": "HelloWorld"
+			"contracts/proj1.sol": "Simple"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -52,11 +52,11 @@
 	},
 	"sources": {
 		"contracts/proj1.sol": {
-			"keccak256": "0xa594de859b96dce0363e46931d5b02a638e52eac14e6a677982eae383e21d568",
+			"keccak256": "0x8bb6aa103249f9e5fe7f4bd80d9a75df21e6e3da06cb1a590587cfb8208054c3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://371acf952a771d3162b610a3346196a4d94f01f097cad2a9e33a7cbac721410a",
-				"dweb:/ipfs/QmNwehW9TUwrPs4oZH32R6T1H8rMMb3uTad1izgGaGVZFv"
+				"bzz-raw://eee815aebbd13a58c095bf765756111f9f27402fe473e366a792f9129ef9b704",
+				"dweb:/ipfs/QmSrnRmhDDrtNMMpZSdtYPgbDoD8EDjyPzimrsAauctYcP"
 			]
 		}
 	},
